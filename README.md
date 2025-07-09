@@ -1,4 +1,4 @@
-📘 Student Grading and GPA Management System
+📘 Student Grading and GPA Management System:
 This project is a SQLite-based academic records management system for handling student grades, calculating GPA, and summarizing semester results. It includes tables for students, courses, semesters, grades, and GPA. The system also integrates triggers and views for automation and reporting.
 
 🗂️ Database Structure
